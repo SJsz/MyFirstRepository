@@ -1,3 +1,3 @@
 # MyFirstRepository
 
-Hello my name is sujeonglee
+Hello my name is sujeong lee
